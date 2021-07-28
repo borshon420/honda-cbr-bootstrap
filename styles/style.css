@@ -1,0 +1,36 @@
+/* header content */
+header {
+    background-color: #264653;
+    margin-bottom: 80px;
+}
+
+.text-color {
+    color: white;
+}
+
+.header-text-size {
+    font-size: 14px;
+}
+
+/* featured bike section */
+
+.grayscale-image {
+    filter: grayscale(100%);
+}
+
+/* happy clients says section */
+
+.colored-text {
+    color: #e76f51;
+    margin-left: 10px;
+}
+
+.fa-star.filled {
+    color: #e76f51;
+}
+
+.author-name {
+    text-decoration: none;
+    margin-top: 10px;
+    font-weight: bold;
+}
