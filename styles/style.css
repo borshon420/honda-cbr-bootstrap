@@ -12,11 +12,24 @@ header {
     font-size: 14px;
 }
 
+.btn-color {
+    background-color: #E76F51;
+    color: white;
+    padding: 8px 20px;
+    border-radius: 5px;
+}
+
+
+
 /* featured bike section */
 
 .grayscale-image {
     filter: grayscale(100%);
 }
+
+.grayscale-image:hover {
+    filter: none;
+  }
 
 /* happy clients says section */
 
